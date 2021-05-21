@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8" />
-        <title> Sorteador #jornadaDevOpsOSS </title>
+        <title> Sorteador #jornadaDevSecOps Oi </title>
         <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" />
         <link type="text/css" rel="stylesheet" href="css/sorteio.css" />
         <script src="js/jquery.js"></script>
@@ -54,7 +54,7 @@
     </head>
     <body>
         <div class="container">
-            <h1> Sorteio #jornadaDevOpsOSS </h1>
+            <h1> Sorteador #jornadaDevSecOps Oi </h1>
             <p>Informe abaixo os numeros que serão sorteados, um por linha.</p>
             <form action="prize" method="post" class="well">
                 <label for="employees">Informe a lista de nomes:</label>
